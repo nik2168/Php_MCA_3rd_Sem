@@ -31,3 +31,7 @@ switch ($favcolor) {
 
 </body>
 </html>
+
+// output 
+
+Your favorite color is blue!

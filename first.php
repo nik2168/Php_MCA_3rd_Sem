@@ -10,3 +10,9 @@
     <?php echo "Hello there !" ?>
 </body>
 </html>
+
+
+// output
+
+My First Program !
+Hello there !

@@ -45,3 +45,15 @@
 
 </body>
 </html>
+
+// output 
+
+int(1)
+float(1.3)
+string(3) "Nik"
+NULL
+string(3) "Cat"
+object(animal)#1 (1) {
+  ["name"]=>
+  string(3) "Cat"
+}

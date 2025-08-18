@@ -18,3 +18,6 @@ echo "Hi there, I'm $name and my age is $age";
 </body>
 </html>
 
+// output
+
+Hi there, I'm Nik and my age is 23

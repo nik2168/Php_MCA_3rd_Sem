@@ -30,3 +30,11 @@
     ?>
 </body>
 </html>
+
+
+// output 
+
+30
+Hello, Nik
+5
+true

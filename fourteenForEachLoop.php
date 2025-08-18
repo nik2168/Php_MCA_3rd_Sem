@@ -17,6 +17,13 @@
     }
 
     ?>
-    
+
 </body>
 </html>
+
+// output
+
+red
+green
+blue
+yellow

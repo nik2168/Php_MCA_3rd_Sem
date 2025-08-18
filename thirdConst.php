@@ -20,3 +20,8 @@
 
 </body>
 </html>
+
+// output 
+
+Welcome to the team ! 
+Happy Birthday Sam !

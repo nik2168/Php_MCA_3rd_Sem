@@ -24,3 +24,10 @@ echo ($x - $y)."<br>";
 
 </body>
 </html>
+
+// output 
+
+5
+6
+1.5
+1
